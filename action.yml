@@ -1,0 +1,5 @@
+name: "Hello World"
+description: "Greet the world and record the time"
+runs:
+  using: "node20"
+  main: "index.js"
